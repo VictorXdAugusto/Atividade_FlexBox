@@ -1,3 +1,7 @@
+h1 {
+    margin: auto;
+}
+
 .flex-item {
     width: 100px;
     height: 100px;
@@ -28,9 +32,6 @@
     background-color: #efb661;
 }
 
-h1 {
-    margin: auto;
-}
 
  .container1 {
     display: flex;
